@@ -21,7 +21,7 @@ FULL-STACK DEVELOPER  ·  IT ENGINEER  ·  DURBAN, ZA
 [![Portfolio](https://img.shields.io/badge/svulele.com-0E0E0D?style=flat-square&logoColor=F0EDE7&logo=google-chrome)](https://svulele.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E0E0D?style=flat-square&logo=linkedin&logoColor=F0EDE7)](https://www.linkedin.com/in/sbulelelanda)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0E0E0D?style=flat-square&logo=github&logoColor=F0EDE7)](https://github.com/Svulele)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0E0E0D?style=flat-square&logo=gmail&logoColor=F0EDE7)](mailto:sbulele@svulele.com)
+[![Email](https://img.shields.io/badge/Email-0E0E0D?style=flat-square&logo=gmail&logoColor=F0EDE7)](mailto:landa.Sbulele@gmail.com)
 
 <br/>
 
@@ -256,7 +256,7 @@ Let's build something.
 
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0E0E0D?style=for-the-badge&logo=google-chrome&logoColor=F0EDE7)](https://svulele.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect-0E0E0D?style=for-the-badge&logo=linkedin&logoColor=F0EDE7)](https://www.linkedin.com/in/sbulelelanda)&nbsp;
-[![Email](https://img.shields.io/badge/Say_Hello-0E0E0D?style=for-the-badge&logo=gmail&logoColor=F0EDE7)](mailto:sbulele@svulele.com)
+[![Email](https://img.shields.io/badge/Say_Hello-0E0E0D?style=for-the-badge&logo=gmail&logoColor=F0EDE7)](mailto:landa.sbulele@gmail.com)
 
 <br/>
 
